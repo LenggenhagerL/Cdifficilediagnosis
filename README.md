@@ -69,7 +69,7 @@ All variables that were used in our analyses
 - CT-scan indication: suspicion of C. difficile complication (yes=1)
   - The suspicion of C. difficile colitis complication (perforation, toxic megacolon, ileus) was the principal indication for abdominal CT-scan
   
--CT-scan indication: suspicion of abdominal infection (yes=1)
+- CT-scan indication: suspicion of abdominal infection (yes=1)
   - The suspicion of unspecified abdominal infection was the principal indication for abdominal CT-scan
   
 - CT-scan indication: suspicion of urological disease (yes=1)
